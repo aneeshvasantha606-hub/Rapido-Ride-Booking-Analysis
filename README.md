@@ -69,7 +69,6 @@ The dataset used for this project was **created synthetically for learning, anal
 
 ## Files Included
 
-- `Rapido_Dashboard.pdf` — exported dashboard report
 - `images/powerbi-dashboard-preview.png` — combined preview of the three analytical pages
 - `images/executive-overview.png` — Executive Overview screenshot
 - `images/cancellation-analysis.png` — Cancellation Analysis screenshot
@@ -78,7 +77,7 @@ The dataset used for this project was **created synthetically for learning, anal
 
 ## How to View
 
-Open `Rapido_Dashboard.pdf` to browse all four pages, or view the dashboard screenshots in the `images` folder. GitHub displays the preview images directly in this README.
+Browse all four pages, or view the dashboard screenshots in the `images` folder. GitHub displays the preview images directly in this README.
 
 ## Disclaimer
 
